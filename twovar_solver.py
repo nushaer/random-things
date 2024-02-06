@@ -11,5 +11,3 @@ A2,B2,C2 = [int(x) for x in input("enter the coefficients for the second equatio
 #[x_solve,y_solve] = twotwosolver(A1,B1,C1,A2,B2,C2)
 
 print('The solution to \n',A1,'x + ',B1,'y + ',C1,' = 0 \n ',A2,'x + ',B2,'y + ',C2,' = 0 is: \n ',twotwosolver(A1,B1,C1,A2,B2,C2))
-
-#testing
