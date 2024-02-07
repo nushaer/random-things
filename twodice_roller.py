@@ -1,3 +1,7 @@
+#A python program that simulates the roll of two standard, six-sided dice.
+#The program rolls the dice a large number of times and report the fraction of rolls that are
+#each possible combination and shows the probability using a bar chart 
+
 import random
 import numpy as np
 import matplotlib.pyplot as plt

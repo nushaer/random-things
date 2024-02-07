@@ -1,3 +1,6 @@
+#A simple Python program that can solve a pair of simultaneous equations
+#by taking input from the user
+
 def twotwosolver (a1,b1,c1,a2,b2,c2):
     if b1==0:
         x = -c1/a1
